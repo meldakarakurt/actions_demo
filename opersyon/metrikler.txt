@@ -1,0 +1,2 @@
+Egitim Dogruluk Degeri: 92.9%
+Test Dogruluk Degeri: 88.6%
